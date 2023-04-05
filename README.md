@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm José Vitor</h1>
-<h3 align="center">A food lover. And someday a progammer</h3>
+<h3 align="center">I'm a software engineer student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josevitor00&label=Profile%20views&color=0e75b6&style=flat" alt="josevitor00" /> </p>
 
