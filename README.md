@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jose vitor giardini chagas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose vitor giardini chagas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jos%C3%A9-vitor-giardini-chagas-629137245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose vitor giardini chagas" height="30" width="40" /></a>
 <a href="https://instagram.com/x_jose_vitor_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x_jose_vitor_x" height="30" width="40" /></a>
 </p>
 
