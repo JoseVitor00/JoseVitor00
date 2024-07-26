@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josevitor00" alt="josevitor00" /></a> </p>
 
-- 🔭 I’m currently working on **Unfortunally nothing**
+- 🔭 I’m currently working on **Financial project**
 
 - 🌱 I’m currently learning **Frameworks, software engineer, programmin, etc..**
 
@@ -13,11 +13,7 @@
 
 - 🤝 I’m looking for help with **AI development**
 
-- 💬 Ask me about **Anything**
-
 - 📫 How to reach me **jv.giardinichagas@gmail.com**
-
-- ⚡ Fun fact **I'm hungry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
